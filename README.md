@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie105" alt="jamie105" /></a> </p>
 
-- 🔭 My main priority is currently [VariaMC-Bot(private)](https://github.com/jamie105/VariaMC-bot)
+- 🔭 My main priority is currently [YakcraftMiner](https://github.com/SirYakStudios/YakcraftMiner)
 
 - 🌱 I’m currently learning **Further Javascript mastery**
 
-- 🔭 I'm slowly working on [DiscordMiner(private)](https://github.com/SirYakStudios-SYS/DiscordMiner)
+- 🔭 I'm slowly working on [nothing rn lol](github.com/jamie1053)
 
 - 🔭 My first every coding project is [Grumpso(It's bad but it's a start!)](https://github.com/jamie105/grumpso)
 
