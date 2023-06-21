@@ -1,24 +1,12 @@
 # 👋 Jamie
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xekvern&label=Profile%20views&color=0e75b6&style=flat" alt="Xekvern" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie105&label=Profile%20views&color=0e75b6&style=flat" alt="Jamie105" /> </p>
 
 **`A passionate Software Engineer from South Africa.`**
 
 Hello! My name is Jamie, and I'm delighted to tell you a little bit about myself. Since 2014, programming has been an essential part of my life, feeding my curiosity and pushing my ambition to create incredible things. Along with my programming adventures, I've dabbled in the wonderful world of gaming, both playing and making games.
 
 For me, programming has been a fantastic journey. I was attracted by the unlimited possibilities of coding from the minute I stepped into it. I've had the good fortune to experiment with many programming languages, frameworks, and tools, which has allowed me to consistently broaden my skill set. I've improved my problem-solving skills, acquired an eye for detail, and built a strong analytical attitude as a result of this adventure.
- 
-   
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSDMXQy5w0XeNisxiDdBosA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/channel/UCSDMXQy5w0XeNisxiDdBosA">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCSDMXQy5w0XeNisxiDdBosA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Xekvern?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Xekvern?tab=repositories">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Xekvern?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
    
 ---
 
@@ -56,8 +44,8 @@ For me, programming has been a fantastic journey. I was attracted by the unlimit
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=Xekvern&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Xekvern&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xekvern&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jamie105&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jamie105&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamie105&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
