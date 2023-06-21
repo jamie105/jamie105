@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Xekvern&label=Profile%20views&color=0e75b6&style=flat" alt="Xekvern" /> </p>
 
-**`A passionate Software Engineer from the Philippines.`**
+**`A passionate Software Engineer from South Africa.`**
 
 Hello! My name is Jamie, and I'm delighted to tell you a little bit about myself. Since 2014, programming has been an essential part of my life, feeding my curiosity and pushing my ambition to create incredible things. Along with my programming adventures, I've dabbled in the wonderful world of gaming, both playing and making games.
 
