@@ -1,36 +1,63 @@
-<h1 align="center">Ello👋, I'm Jamie</h1>
-<h3 align="center">A young and ready to learn developer!</h3>
+# 👋 Jamie
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamie105&label=Profile%20views&color=0e75b6&style=flat" alt="jamie105" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xekvern&label=Profile%20views&color=0e75b6&style=flat" alt="Xekvern" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamie105" alt="jamie105" /></a> </p>
+**`A passionate Software Engineer from the Philippines.`**
 
-- 🔭 My main priority is currently [YakcraftMiner](https://github.com/SirYakStudios/YakcraftMiner)
+Hello! My name is Jamie, and I'm delighted to tell you a little bit about myself. Since 2014, programming has been an essential part of my life, feeding my curiosity and pushing my ambition to create incredible things. Along with my programming adventures, I've dabbled in the wonderful world of gaming, both playing and making games.
 
-- 🌱 I’m currently learning **Further Javascript mastery**
+For me, programming has been a fantastic journey. I was attracted by the unlimited possibilities of coding from the minute I stepped into it. I've had the good fortune to experiment with many programming languages, frameworks, and tools, which has allowed me to consistently broaden my skill set. I've improved my problem-solving skills, acquired an eye for detail, and built a strong analytical attitude as a result of this adventure.
+ 
+   
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSDMXQy5w0XeNisxiDdBosA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/channel/UCSDMXQy5w0XeNisxiDdBosA">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCSDMXQy5w0XeNisxiDdBosA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Xekvern?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Xekvern?tab=repositories">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Xekvern?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+   
+---
 
-- 🔭 I'm slowly working on [nothing rn lol](github.com/jamie1053)
+<p><img align="left" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="440px" height="320px"/></p>
 
-- 🔭 My first every coding project is [Grumpso(It's bad but it's a start!)](https://github.com/jamie105/grumpso)
+### ⠀Languages
 
-- 💬 Ready to talk about **discord.js and javascript**
+ [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://www.php.net)
+ [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://www.javascript.com)
+ [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://www.html.com)
+ [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://en.wikipedia.org/wiki/CSS)
+ [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
+ [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://www.java.com)
+ [![GoLang](https://img.shields.io/badge/-Go-000?&logo=Go)](https://en.wikipedia.org/wiki/Go_(programming_language))
+ [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://en.wikipedia.org/wiki/SQL)
 
-- 📫 How to reach me **jamie.morgan105@gmail.com**
+### ⠀Technologies
 
-- ⚡ Energy is key. **All I need is a flask of tea and a shot of caffeine!**
+ [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)](https://www.linux.org)
+ [![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)](https://www.microsoft.com/windows)
+ [![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://www.mongodb.com)
+ [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)](https://www.mysql.com)
+ [![Express.JS](https://img.shields.io/badge/-Express.JS-000?&logo=Express)](https://www.expressjs.com)
+ [![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://aws.amazon.com)
+ [![React.JS](https://img.shields.io/badge/-React.JS-000?&logo=React)](https://www.reactjs.org)
+ [![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=node.js)](https://www.nodejs.org)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/19586571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19586571" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/theproblematicbrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theproblematicbrit" height="30" width="40" /></a>
-<a href="https://discord.gg/t9pVdpmKDB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t9pVdpmKDB" height="30" width="40" /></a>
-</p>
+### ⠀Hobbies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+ [![Programming](https://img.shields.io/badge/-💻 Programming-000)](https://en.wikipedia.org/wiki/Computer_programming)
+ [![Video Games](https://img.shields.io/badge/-🎮 Video Games-000)](https://wikipedia.org/wiki/Video_game)
+ [![Basketball](https://img.shields.io/badge/-🏀 Basketball-000)](https://en.wikipedia.org/wiki/Basketball)
+ [![Mountain Biking](https://img.shields.io/badge/-⛰️ Mountain Biking-000)](en.wikipedia.org/wiki/Mountain_biking)
+ [![Badminton](https://img.shields.io/badge/-🏸 Badminton-000)](https://wikipedia.org/wiki/Badminton)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamie105&show_icons=true&theme=onedark&locale=en&layout=compact" alt="jamie105" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamie105&show_icons=true&theme=onedark&locale=en" alt="jamie105" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Xekvern&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Xekvern&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xekvern&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamie105&theme=dark" alt="jamie105" /></p>
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
