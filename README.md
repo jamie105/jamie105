@@ -44,8 +44,8 @@ For me, programming has been a fantastic journey. I was attracted by the unlimit
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=jamie105&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](vercel-iota-eight-86.vercel.app/api?username=jamie105&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jamie105&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamie105&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](vercel-iota-eight-86.vercel.app/api/top-langs/?username=jamie105&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+vercel-iota-eight-86.vercel.app
 ![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
